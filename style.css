@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: url('PIC.gif'); 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.icon {
+    display: inline-block;
+    width: 45px; 
+    height: 40px;
+    background-image: url('ICON.jpg'); 
+    background-size: cover;
+    margin-right: 10px; 
+    vertical-align: middle;
+}
+h1 {
+    background-color: #8cdbcea4;
+    color: #ffffff; 
+    padding: 10px; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;
+}
+
+
+.box {
+    border: 1px solid rgb(255, 255, 255);
+    padding: 7px;
+    text-align: center;
+    border: solid white;
+    font-size: 180%;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    opacity: 100%;
+    padding: 1%;
+    
+}
+
+/*.........................................................COLUMN FORM 1 TO 12.......................................................*/
+.col-lg-3.col-md-3.col-sm-6.col-12.box.num1{
+    background-color: rgba(216, 216, 83, 0.712);
+}
+.col-lg-3.col-md-3.col-sm-6.col-12.box.num2{
+    background-color: rgba(204, 186, 151, 0.932);
+}
+.col-lg-3.col-md-3.col-sm-4.col-12.box.num3{
+    background-color: rgba(238, 238, 140, 0.705);
+}
+.col-lg-3.col-md-3.col-sm-4.col-12.box.num4{
+    background-color: rgba(238, 155, 0, 0.726);
+}
+.col-lg-6.col-md-6.col-sm-4.col-12.box.num5{
+    background-color: rgba(160, 160, 197, 0.637);
+}
+.col-lg-6.col-md-6.col-sm-12.col-12.box.num6 {
+    background-color: rgba(63, 62, 62, 0.699);
+    color: white;
+}
+
+.col-lg-12.col-md-12.col-sm-12.col-12.box.num7 {
+    background-color: rgba(60, 60, 207, 0.774);
+}
+
+.col-lg-12.col-md-12.col-sm-12.col-12.box.num8 {
+   background-color: rgba(245, 245, 99, 0.815);
+}
+
+.col-lg-3.col-md-3.col-sm-3.col-3.box.num9 {
+    background-color: rgba(224, 203, 179, 0.719);
+}
+
+.col-lg-3.col-md-3.col-sm-3.col-3.box.num10 {
+    background-color: rgba(128, 128, 128, 0.699);
+}
+
+.col-lg-3.col-md-3.col-sm-3.col-3.box.num11 {
+    background-color: rgba(165, 42, 42, 0.664);
+    color: white;
+}
+
+.col-lg-3.col-md-3.col-sm-3.col-3.box.num12 {
+    background-color: rgba(255, 255, 0, 0.733);
+}
